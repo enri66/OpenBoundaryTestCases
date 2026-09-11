@@ -1,8 +1,10 @@
-# OceananigansOBC validation
+# OpenBoundaryTestCases
 
-Test cases for open boundary conditions in [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl),
-used in developing `ObliqueRadiation` ([#5962](https://github.com/CliMA/Oceananigans.jl/pull/5962)) and
-`TracerReservoir` ([#5964](https://github.com/CliMA/Oceananigans.jl/pull/5964)).
+Test cases for open boundary conditions in regional ocean models built on
+[Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) and [NumericalEarth](https://github.com/NumericalEarth).
+The current set was used in developing `ObliqueRadiation`
+([#5962](https://github.com/CliMA/Oceananigans.jl/pull/5962)) and `TracerReservoir`
+([#5964](https://github.com/CliMA/Oceananigans.jl/pull/5964)) in Oceananigans.
 
 | script | what it tests |
 |---|---|
